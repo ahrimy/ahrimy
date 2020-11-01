@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '5 * * * *'
+    - cron: '33 * * * *'
 
 jobs:
   update-readme:
