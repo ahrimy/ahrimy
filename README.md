@@ -24,9 +24,5 @@ HTML                     1 min               ░░░░░░░░░░░�
 
 ```
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/ahrimy/ahrimy/master/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
