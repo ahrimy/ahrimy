@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-143775%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-145131%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -16,7 +16,8 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 9 mins              █████████████████████████   100.0%
+Markdown                 20 mins             █████████████████████████   99.76% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 ```
 
