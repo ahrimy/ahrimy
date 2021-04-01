@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-146243%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-146561%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -29,6 +29,11 @@ Sunday       111 commits    ██████░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
+💬 Programming Languages: 
+Markdown                 11 mins             ███████████████████░░░░░░   78.61% 
+Cocoa                    2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.04% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
+
 ```
 
 
